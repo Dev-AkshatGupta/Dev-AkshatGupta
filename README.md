@@ -5,7 +5,7 @@
 ### About me
 
 <ul>
- <li>I am currently revising my concepts on my JS and also learning to optimize my react apps.</li>
+ <li>I am currently optimizing my react apps.</li>
 <li>I want to learn Jest, Next.js, WebSockets , Graph QL, Node JS, MonogDB</li>
  <li>I regularly write articles on  <a href="https://debuggerakshat.hashnode.dev/">different topics.</a></li>
 <li>Apart from coding I love chess and games have puzzles and also loves gymming. </li>
