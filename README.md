@@ -37,10 +37,11 @@
 ### GitHub Stats
  
  <div align="center">
+<!--  &hide=stars,commits,prs,issues,contribs -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AkshatGupta&hide=jupyter%20notebook,html,css&theme=radical)](https://github.com/Dev-AkshatGupta)
-[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Dev-AkshatGupta&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/Dev-AkshatGupta)
-[![Stats](https://github-readme-stats.vercel.app/api?username=Dev-AkshatGupta&show_icons=true&theme=gotham)](https://github.com/Dev-AkshatGupta)
+[![Akshat GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-AkshatGupta&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-AkshatGupta&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
   </div>
