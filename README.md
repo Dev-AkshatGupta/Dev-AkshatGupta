@@ -1,13 +1,13 @@
 
 <h1 align="center"> 🙏 Namastey I am Akshat Gupta. </h1>
-<h3>I am a passionate web developer who loves to develope new path breaking projects and loves the power of creation we possess. </h3>
+<h3>I am Frontend Developer who loves to develope new path breaking projects and loves the power of creation we possess. </h3>
 
 ### About me
 
 <ul>
- <li>I am currently optimizing my react apps.</li>
-<li>I want to learn Jest, Next.js, WebSockets , Graph QL, Node JS, MonogDB</li>
- <li>I regularly write articles on  <a href="https://debuggerakshat.hashnode.dev/">different topics.</a></li>
+ <li>I am currently working as SDE 2 FE in a organiastion.</li>
+<li>I have extensively worked on technologies like ReactJS, TS, JS, CSS, Cypress E2E testing, Jest/Vitest unit Testing, Vite build tool, Tanstack Query, React Router. </li>
+ 
 <li>Apart from coding I love chess and games have puzzles and also loves gymming. </li>
 </ul>
 
